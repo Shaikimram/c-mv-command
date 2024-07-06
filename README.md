@@ -37,7 +37,7 @@ move file from one location to another
 Copy code
 // go to the path where the executable file is located
 cd /home/ubuntu/Desktop
-./mi /home/ubuntu/Desktop/file_name new_location path
+./mi existing_file_location new_location path
 
 
 Requirements
